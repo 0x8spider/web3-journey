@@ -18,3 +18,6 @@ contract Web3Builder {
         return "One block at a time ⛓️";
     }
 }
+
+## 📝 Updates
+- December 2025: Started my Web3 journey
