@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0x8spider&color=blueviolet&style=flat-square)
 
-**Building in Web3 | Blockchain Enthusiast | Ecosystem Developer**
+**Building in Web3 Blockchain Enthusiast Ecosystem Developer**
 
 ## 🚀 About This Journey
 
