@@ -93,4 +93,4 @@ This repo is my personal record of everything I explore in Web3 — testnets I j
 
 ---
 
-Tinggal select semua dari atas sampai bawah, copy, paste ke README repo `web3-journey` lo! 🕷️✅
+
