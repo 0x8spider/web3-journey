@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ Web3 Journey
+# 🚀 web3-journey
 
 ### `> My personal log of Web3 exploration, testnets & blockchain experiments`
 
@@ -88,9 +88,5 @@ This repo is my personal record of everything I explore in Web3 — testnets I j
 
 [![Twitter/X](https://img.shields.io/badge/@Majorstar__-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Majorstar_)
 [![GitHub](https://img.shields.io/badge/0x8spider-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0x8spider)
-
-</div>
-
----
 
 
